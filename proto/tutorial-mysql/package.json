@@ -13,6 +13,7 @@
   "author": "ssahu",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
     "mysql": "^2.16.0"
   }
 }
