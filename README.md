@@ -2,7 +2,7 @@
 Manage your daily expenses with the esmoney finance manager
 
 
-#LINKS:
+## Links:
 
 1. ChartJS
    http://www.chartjs.org/samples/latest/
