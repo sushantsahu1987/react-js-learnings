@@ -16,6 +16,9 @@ Manage your daily expenses with the esmoney finance manager
       2. Python web server
          python3 -m http.server
       
+      3. SVG Documentation
+         https://www.w3schools.com/graphics/svg_intro.asp
+      
 
 ### Links
 
