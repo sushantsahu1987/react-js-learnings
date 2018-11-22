@@ -12,6 +12,9 @@ Manage your daily expenses with the esmoney finance manager
       
       1. D3.js
          https://github.com/d3/d3/wiki
+         
+      2. Python web server
+         python3 -m http.server
       
 
 ### Links
