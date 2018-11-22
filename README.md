@@ -2,7 +2,19 @@
 Manage your daily expenses with the esmoney finance manager
 
 
-## Links:
+### Prototypes
+
+      1. rn-chartjs
+      2. tutorial-mysql
+      3. webapp-chartjs
+
+### Notes
+      
+      1. D3.js
+         https://github.com/d3/d3/wiki
+      
+
+### Links
 
 1. ChartJS
    http://www.chartjs.org/samples/latest/
