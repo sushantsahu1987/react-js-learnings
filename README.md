@@ -7,6 +7,7 @@ Manage your daily expenses with the esmoney finance manager
       1. rn-chartjs
       2. tutorial-mysql
       3. webapp-chartjs
+      4. faker-latlong-gen
 
 ### Notes
       
