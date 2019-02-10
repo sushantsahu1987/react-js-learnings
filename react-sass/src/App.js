@@ -9,7 +9,13 @@ class App extends Component {
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
           Maecenas et massa vel diam rhoncus vestibulum. 
           Aenean dictum elit sed nisl rhoncus ultricies. 
-        </p>      
+        </p>
+        
+        <ul>
+          <li>Battle Angel Alita</li>
+          <li>Starship Trooper</li>
+        </ul>
+
       </div>
     );
   }
