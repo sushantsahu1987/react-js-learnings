@@ -15,7 +15,7 @@
   z-index: 1;
   top: 0;
   left: 0;
-  transition: 0.5ms;
+  transition: 0.5s;
   padding-top: 60px;
   overflow-x: hidden;
 }
@@ -30,7 +30,7 @@
   color: #818181;
   display: block;
   font-size: 22px;
-  transition: 0.3ms;
+  transition: 0.3s;
   text-decoration: none;
 }
 
