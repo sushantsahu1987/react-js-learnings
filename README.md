@@ -1,5 +1,5 @@
-# esmoney-finance-manager
-Manage your daily expenses with the esmoney finance manager
+# react-js-learnings
+Learning react-js one function at a time ...
 
 
 ### Prototypes
