@@ -25,3 +25,8 @@ Manage your daily expenses with the esmoney finance manager
 
       3. Styled Components
          https://www.styled-components.com/docs/basics
+         
+      4. Boot Swatch
+         https://bootswatch.com/
+         https://bootswatch.com/darkly/
+         
