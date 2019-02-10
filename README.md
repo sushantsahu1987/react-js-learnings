@@ -28,3 +28,5 @@ Manage your daily expenses with the esmoney finance manager
          
       4. Boot Swatch
          https://bootswatch.com/
+         https://bootswatch.com/darkly/
+         
