@@ -1,14 +1,13 @@
-# esmoney-finance-manager
-Manage your daily expenses with the esmoney finance manager
+# react-js-learnings
+Learning react-js one function at a time ...
 
 
-### Prototypes
+### Repositories
 
-      1. rn-chartjs
-      2. tutorial-mysql
-      3. webapp-chartjs
-      4. faker-latlong-gen
-      5. highcharts
+      1. learning-mobx
+      2. react-bootstrap-swatch
+      3. react-hook
+      4. react-sass	
 
 ### Notes
       
