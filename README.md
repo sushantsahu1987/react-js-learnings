@@ -11,7 +11,7 @@ Learning react-js one function at a time ...
 
 ### Notes
       
-      1. ...
+      1. https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52
               
 
 ### Links
