@@ -8,10 +8,12 @@ Learning react-js one function at a time ...
       2. react-bootstrap-swatch
       3. react-hook
       4. react-sass	
+      5. react-suspense-lazy
 
 ### Notes
       
-      1. ...
+      1. https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52
+      2. https://www.react-spinners.com/
               
 
 ### Links
