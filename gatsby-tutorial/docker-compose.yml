@@ -1,0 +1,20 @@
+version: "3.7"
+
+services:
+  gatsby:
+    build:
+      context: ./gatsby-site
+      dockerfile: Dockerfile
+    entrypoint: gatsby
+    volumes:
+      - ./gatsby-site:/app
+  
+  develop:
+    build:
+      context: ./gatsby-site
+      dockerfile: Dockerfile
+    command: gatsby develop -H 0.0.0.0
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./gatsby-site:/app
