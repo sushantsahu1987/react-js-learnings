@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "test-react-pm2",
+            "script": "npm",
+            "args" : "run deploy"
+        }
+    ]
+}
